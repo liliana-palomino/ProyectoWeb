@@ -9,7 +9,7 @@ const Login = () => {
   const formulario = useRef(null);
   //5.- Crear la funcion para el evento submit
   const handleSubmit = () => {
-    //Crear la constante  formData
+    //Crear la constante  formData 
     const formData = new FormData(formulario.current)
     const data={
       username:formData.get('email'),

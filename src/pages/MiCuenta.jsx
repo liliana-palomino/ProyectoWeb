@@ -9,7 +9,7 @@ const MiCuenta = () => {
   const navigateToCrearCuenta = () => {
     navigate('/CrearCuenta');
   };
-    return (
+    return ( 
         <div className="micuenta">
   <div className="form-container-micuenta">
     <form action="" className="form-login-micuenta">

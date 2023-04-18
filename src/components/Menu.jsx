@@ -9,7 +9,7 @@ const Menu = () => {
   
   const navigateToMiCuenta = () => {
     navigate('/MiCuenta');
-  };
+  }; 
   const navigateToLogin = () => {
     navigate('/Login');
   };

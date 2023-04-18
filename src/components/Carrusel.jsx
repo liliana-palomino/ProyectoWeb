@@ -7,7 +7,7 @@ const logox = 'http://dtai.uteq.edu.mx/~mirdie197/Imagenes/promocion';
 
 const Carrusel = () => {
   const { scrollRef, pages, activePageIndex, next, prev, goTo } =
-    useSnapCarousel();
+    useSnapCarousel(); 
   return (
     <>
       <ul

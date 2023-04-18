@@ -11,7 +11,7 @@ const NoEncontrado = () => {
             <label className="label404NE">404</label>
            
             <img src={brownie} alt='No encontrado' className='brownie'></img>
-
+ 
             <label className="labeltextoNE">Página no encontrada</label>
             </center>
         </div>
