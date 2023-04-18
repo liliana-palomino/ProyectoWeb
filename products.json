@@ -1,0 +1,103 @@
+{
+  "products": [
+      {
+          "id": 1, 
+          "name": "Aspirina",
+          "description": "Alivia dolores leves o moderados, reduce la fiebre y ayuda a prevenir la formación de coágulos sanguíneos",
+          "manufacturer": "Bayer",
+          "active_ingredient": "Acido Acetilsalicílico",
+          "strength": "500 mg",
+          "form": "Tableta",
+          "price": 95.00,
+          "image_url": "https://farmaciadigitalff-media.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/0/1/01807433f4fc8ee48b1a7074830f7c2e330b77725f9b47337e4055390a44e54d.jpg"
+      },
+      {
+          "id": 2,
+          "name": "Omeprazol",
+          "description": "Disminuye la cantidad de ácido que produce el estómago, se utiliza para tratar la acidez estomacal, úlceras gástricas y otros problemas relacionados con el sistema digestivo",
+          "manufacturer": "Genérico",
+          "active_ingredient": "Omeprazol",
+          "strength": "20 mg",
+          "form": "Cápsula",
+          "price": 132.00,
+          "image_url": "https://www.fahorro.com/media/catalog/product/cache/3fba745dcec88e97bfe808bedc471260/7/5/7502223704909.png"
+      },
+      {
+          "id": 3,
+          "name": "Paracetamol",
+          "description": "Usado para tratar el dolor leve a moderado, la fiebre y otros síntomas asociados con enfermedades comunes como el resfriado y la gripe",
+          "manufacturer": "Genérico",
+          "active_ingredient": "Paracetamol",
+          "strength": "500 mg",
+          "form": "Tableta",
+          "price": 64.00,
+          "image_url": "https://www.fahorro.com/media/catalog/product/cache/3fba745dcec88e97bfe808bedc471260/7/5/7506472803833_1_1.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Naproxeno",
+        "description": "Se usa para reducir la fiebre y aliviar los dolores leves por cefaleas, dolores musculares, artritis, periodos menstruales, resfriado común; dolor de muelas y dolor de espalda",
+        "manufacturer": "AMSA",
+        "active_ingredient": "Naproxeno",
+        "strength": "500 mg",
+        "form": "Tableta",
+        "price": 57.00,
+        "image_url": "https://www.farmalisto.com.mx/93417/compra-naproxeno-500-mg-caja-con-45-tabletas-precio.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Abrunt ",
+        "description": "Antialérgico",
+        "manufacturer": "Genérico",
+        "active_ingredient": "Desloratadina",
+        "strength": "5 mg",
+        "form": "Tableta",
+        "price": 70.00,
+        "image_url": "https://farmaciasgi.com.mx/wp-content/uploads/2019/11/Abrunt-T-640px.png"
+    },
+    {
+        "id": 6,
+        "name": "Histofil ",
+        "description": "Salud, Osteoporosis, Vitaminas - Suplemento",
+        "manufacturer": "Genérico",
+        "active_ingredient": "Colecaciferol",
+        "strength": "4000 UI",
+        "form": "Tableta",
+        "price": 315.00,
+        "image_url": "https://farmaciadigitalff-media.azureedge.net/catalog/product/cache/a77266c1abf4147499139dcd165bfd03/d/2/d25c8a28464cb10a6edb55272dc3de0ca8d8b1cd8d2d93f2ddfefb036a1bd250.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Dolo-neurobión ",
+        "description": "Alivio de dolor e inflamación en músculos, articulaciones y fibras nerviosas",
+        "manufacturer": "Genérico",
+        "active_ingredient": "tiamina, piridoxina, cianocobalamina y diclofenaco",
+        "strength": "5mg",
+        "form": "Tableta",
+        "price": 295.00,
+        "image_url": "https://res.cloudinary.com/stchi/image/upload/v1649687093/Main/DoloNeurobion/es_MX/1000px_DOLO-NEUROBION-20-TABS_3-4D_1.png"
+    },
+    {
+        "id": 8,
+        "name": "Neurobión ",
+        "description": "Auxiliar para el tratamiento de la inflamación en las terminaciones nerviosas y neuropatías",
+        "manufacturer": "Genérico",
+        "active_ingredient": "Tiamina, piridoxina y cianocobalamina",
+        "strength": "5mg",
+        "form": "Tableta",
+        "price": 426.00,
+        "image_url": "https://images.ctfassets.net/9xyrwigqh3qn/1cslU3spYlgLWWQLaCB4d1/6c0bfe2dd8a964e8bc46f4c91ee4b31e/pgone_neurobion_1.-Mexico-Packshot__Packshot-30-Tab-DER_fjzogl"
+    },
+    {
+        "id": 9,
+        "name": "Sildenafil ",
+        "description": "Auxiliar para el tratamiento de la inflamación en las terminaciones nerviosas y neuropatías",
+        "manufacturer": "Phama life",
+        "active_ingredient": "Tiamina, piridoxina y cianocobalamina",
+        "strength": "100 mg",
+        "form": "Tableta",
+        "price": 145.00,
+        "image_url": "https://www.movil.farmaciasguadalajara.com/wcsstore/FGCAS/wcs/products/1147765_A_1280_AL.jpg"
+    }
+  ]
+}
